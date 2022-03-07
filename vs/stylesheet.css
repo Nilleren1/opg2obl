@@ -1,0 +1,43 @@
+.headline{
+color: aliceblue;
+font-size: 20px;
+
+}
+
+.toptekst{
+    background-color: rgb(20, 31, 41);
+    color: aliceblue;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.384);
+    border-top: 2px solid rgba(0, 0, 0, 0.384);
+    box-shadow: rgb(20, 31, 41);
+    text-align: center;
+}
+
+.center{
+    background-color: #FFF8B0;
+    border-bottom: 1px solid rgb(20, 31, 41);
+}
+
+.coollink{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    transition-duration: 0.4s;
+    position: fixed;
+    right: 30px;
+}
+.coollink:hover{
+    color: #1a90d580;
+   font-size: 28px;
+}
+
+
+table{
+    border: solid black 1 px;
+}
+
+.navbar{
+    background-color: #FFF8B0;
+}
+body{
+    overflow-x: hidden;
+}
